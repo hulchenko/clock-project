@@ -1,8 +1,7 @@
 html {
     margin: 0;
-    background: url(/images/background.jpg);
+    background-image: url(images/background.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     text-align: center;
 }
 
